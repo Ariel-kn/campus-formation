@@ -1,0 +1,1 @@
+ALTER TABLE `learning_activity_logs` MODIFY COLUMN `activityAction` enum('deliverable_submitted','deliverable_reviewed','assessment_submitted','assessment_reviewed','revision_requested','override_changed','content_updated','deadline_updated') NOT NULL;

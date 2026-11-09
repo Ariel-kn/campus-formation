@@ -1,0 +1,136 @@
+Module 6 : WhatsApp Ads
+Publicité Conversationnelle
+
+
+
+
+Durée : 12 heures (4 séances × 3h)
+Semaines 10 à 11
+Portfolio : Stratégie WhatsApp Ads complète
+
+
+
+
+Manuel de Formation · Gestion des Médias Sociaux et Marketing Digital   Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Cours 1 : Introduction à WhatsApp Marketing
+
+
+
+Objectifs d'apprentissage
+
+  · Comprendre les différents types de comptes WhatsApp (Business vs API)
+  · Appréhender les règles et bonnes pratiques du marketing sur WhatsApp
+  · Configurer un compte WhatsApp Business optimisé pour la publicité
+
+
+
+1.1 Les avantages du marketing WhatsApp
+  WhatsApp est l'application de messagerie la plus utilisée au monde. Contrairement aux emails qui peuvent rester sans réponse, les messag
+
+Points clés
+  · Communication instantanée et personnalisée
+  · Création d'une relation de proximité avec le client
+  · Support client rapide et efficace
+  · Ventes directes via les catalogues WhatsApp
+
+1.2 WhatsApp Business App vs WhatsApp Business Platform (API)
+  WhatsApp Business App : Idéal pour les petites entreprises, permet de créer des profils, des réponses rapides et des catalogues simples.
+
+  WhatsApp Business Platform (API) : Destinée aux entreprises plus importantes, elle permet l'automatisation avancée, l'intégration avec des
+
+
+
+
+Manuel de Formation · Gestion des Médias Sociaux et Marketing Digital        Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Cours 2 : Créer des campagnes « Click to WhatsApp »
+
+
+
+Objectifs d'apprentissage
+
+  · Créer des publicités sur Facebook et Instagram qui redirigent vers WhatsApp
+  · Configurer les messages d'accueil et les réponses automatiques
+  · Optimiser le parcours utilisateur
+
+
+
+2.1 Qu'est-ce qu'une publicité « Click to WhatsApp » ?
+  Une publicité « Click to WhatsApp » apparaît sur Facebook ou Instagram avec un bouton « Envoyer un message ». Lorsqu'un utilisateur cliq
+
+Exemple de campagne
+  NaturaBenin lance une publicité sur Instagram pour une nouvelle crème hydratante. L'utilisateur voit la publicité, clique sur « Envoyer un me
+
+2.2 Configuration d'une campagne
+  1. Dans Meta Ads Manager, créer une nouvelle campagne avec l'objectif « Messages ».
+  2. Sélectionner « WhatsApp » comme application de messagerie.
+  3. Rédiger le texte principal, le titre et définir l'appel à l'action.
+  4. Définir les audiences et le budget.
+  5. Créer un message d'accueil pré-rempli.
+
+
+
+
+Manuel de Formation · Gestion des Médias Sociaux et Marketing Digital          Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Cours 3 : Automatisation et Chatbots
+
+
+
+Objectifs d'apprentissage
+
+  · Configurer des réponses automatiques et des messages d'absence
+  · Créer des chatbots simples pour qualifier les leads
+  · Utiliser des outils d'intégration (Zapier, ManyChat)
+
+
+
+3.1 Les réponses automatiques
+  Message d'accueil : Un message envoyé automatiquement lorsqu'un client vous contacte pour la première fois.
+
+  Message d'absence : Un message envoyé en dehors des heures d'ouverture.
+
+  Réponses rapides : Des raccourcis clavier pour répondre plus vite aux questions fréquentes.
+
+3.2 Outils d'intégration
+  Zapier : Connecter WhatsApp Business à d'autres applications (CRM, Google Sheets, etc.)
+
+  ManyChat : Créer des chatbots avec une interface visuelle sans code
+
+  Respond.io : Plateforme de gestion multi-canal pour WhatsApp Business API
+
+
+
+
+Manuel de Formation · Gestion des Médias Sociaux et Marketing Digital        Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Cours 4 : Analyse et Optimisation
+
+
+
+Objectifs d'apprentissage
+
+  · Mesurer les performances des campagnes WhatsApp
+  · Analyser le coût par conversation et le taux de conversion
+  · Optimiser les scénarios de vente
+
+
+
+4.1 KPIs WhatsApp
+  Coût par conversation (CPC) : Le coût moyen pour déclencher une conversation via la publicité.
+
+  Taux de réponse : Le pourcentage de personnes ayant répondu au premier message.
+
+  Temps de réponse moyen : La rapidité avec laquelle votre équipe répond aux messages.
+
+  Taux de conversion : Le pourcentage de conversations ayant débouché sur une vente.
+
+CAS PRATIQUE
+  Situation : Vous êtes community manager pour NaturaBenin, une marque de cosmétiques naturels.
+
+  Objectif : Augmenter les ventes en ligne en redirigeant les prospects vers WhatsApp.
+
+  Travail demandé : Créer une publicité Instagram avec l'objectif Messages vers WhatsApp, rédiger le texte publicitaire et le message d'accue
+
+
+
+
+Manuel de Formation · Gestion des Médias Sociaux et Marketing Digital         Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Module 7 : Google Ads

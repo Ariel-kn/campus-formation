@@ -1,0 +1,63 @@
+    5. Proposer un plan de collecte d'avis (email, QR code, SAV)
+
+    Résultat clé : Fiche Google Business opérationnelle et optimisée.
+
+
+
+Évaluation de Fin de Module 6
+QCM (5 questions)
+1. Quel est le premier pilier du SEO ?
+   a. a) Les backlinks
+   b. b) Le contenu
+   c. c) La technique
+2. Quelle longueur idéale pour un title tag ?
+   a. a) 100-120 caractères
+   b. b) 50-60 caractères
+   c. c) 200 caractères
+3. Quel outil gratuit mesure la vitesse d'un site ?
+   a. a) SEMrush
+
+
+Page 69 | Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Module 6 : SEO – Référencement Naturel et Visibilité Web
+
+
+   a. b) Google PageSpeed Insights
+   b. c) Ahrefs
+4. Qu'est-ce que Google Business Profile ?
+   a. a) Un réseau social professionnel
+   b. b) La fiche gratuite de l'entreprise sur Google Maps
+   c. c) Un outil de publicité payante
+5. Quelle métrique Core Web Vitals mesure la vitesse de chargement ?
+   a. a) CLS
+   b. b) LCP
+   c. c) INP
+
+Cas pratique (30 points)
+
+
+    Sujet : Un restaurant "Chez Awa" à Porto-Novo veut améliorer son référencement local.
+
+    1. Recherche de 10 mots-clés locaux + optimisation on-page (10 pts)
+    2. Audit technique rapide + 5 recommandations (10 pts)
+    3. Configuration Google Business + plan avis (10 pts)
+
+    Durée : 1h30
+
+
+ Élément                                                           Coefficient
+
+ QCM                                                               20%
+
+ Cas pratique                                                      30%
+
+ Audit SEO portfolio                                               40%
+
+ Participation                                                     10%
+
+
+* * *
+
+
+
+

@@ -1,0 +1,132 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1786936084119,
+      "tag": "0000_open_genesis",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1786985651246,
+      "tag": "0001_nebulous_khan",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1786985893042,
+      "tag": "0002_chilly_gladiator",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1786988950996,
+      "tag": "0003_even_black_panther",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1786989693271,
+      "tag": "0004_safe_bloodstrike",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1786990093577,
+      "tag": "0005_slippery_famine",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1786992073393,
+      "tag": "0006_faulty_lady_bullseye",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1787077550709,
+      "tag": "0007_old_blizzard",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1787077657592,
+      "tag": "0008_past_norman_osborn",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1787513861882,
+      "tag": "0009_good_terrax",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "5",
+      "when": 1787515358254,
+      "tag": "0010_abnormal_captain_britain",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "5",
+      "when": 1787518065413,
+      "tag": "0011_tiny_madame_hydra",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "5",
+      "when": 1787528542151,
+      "tag": "0012_dark_hannibal_king",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "5",
+      "when": 1787593932639,
+      "tag": "0013_new_captain_stacy",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "5",
+      "when": 1793296371798,
+      "tag": "0014_strange_caretaker",
+      "breakpoints": true
+    },
+    {
+      "idx": 15,
+      "version": "5",
+      "when": 1793300343101,
+      "tag": "0015_hesitant_catseye",
+      "breakpoints": true
+    },
+    {
+      "idx": 16,
+      "version": "5",
+      "when": 1793301292138,
+      "tag": "0016_breezy_misty_knight",
+      "breakpoints": true
+    },
+    {
+      "idx": 17,
+      "version": "5",
+      "when": 1793630567643,
+      "tag": "0017_new_tomas",
+      "breakpoints": true
+    }
+  ]
+}

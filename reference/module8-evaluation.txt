@@ -1,0 +1,91 @@
+   Résultat clé : Système de veille opérationnel avec premier rapport.
+
+
+
+  Cours 6 : Rapport Final et Soutenance                            3h
+
+
+
+   PROJET FINAL – Tableau de bord et rapport stratégique
+
+   Consigne : Pour votre marque portfolio, créez :
+
+       Un tableau de bord complet avec KPIs par canal (Google Sheets ou Looker Studio)
+       Un rapport stratégique de synthèse des 4 mois (4-6 pages)
+       5 recommandations data-driven pour les 3 prochains mois
+       Un plan de veille structuré
+
+   Durée : 3h | Format : Dossier PDF + tableau
+
+
+
+Évaluation de Fin de Module 8
+QCM (5 questions)
+1. Quelle formule calcule le ROAS ?
+   a. a) Dépenses / Conversions
+   b. b) Chiffre d'affaires / Dépenses publicitaires
+   c. c) Clics / Impressions
+2. Quel outil gratuit permet de créer des tableaux de bord ?
+   a. a) Tableau Excel uniquement
+
+
+
+Page 86 | Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Module 8 : Analyse des Performances et Data-Driven Marketing
+
+
+   a. b) Google Looker Studio
+   b. c) Photoshop
+3. Qu'est-ce que Google Analytics 4 mesure par défaut ?
+   a. a) Les appels téléphoniques uniquement
+   b. b) Les événements et les conversions sur un site web
+   c. c) Les ventes en magasin physique uniquement
+4. Quel est le premier objectif d'une veille informationnelle ?
+   a. a) Copier les concurrents
+   b. b) Anticiper les tendances et saisir les opportunités
+   c. c) Espionner les employés
+5. Quelle étape vient après "Tester" dans la méthode data-driven ?
+   a. a) Observer
+   b. b) Mesurer
+   c. c) Hypothétiser
+
+Cas pratique (30 points)
+
+
+   Sujet : Un client vous demande un audit rapide de ses réseaux sociaux. Analysez ces
+   données et proposez un plan d'action :
+
+     Mois                Followers          Publications           Engagement   Site Clics   Ventes
+
+     Septembre           +120               12                     3.2%         45           2
+
+     Octobre             +85                8                      2.1%         28           1
+
+     Novembre            +200               16                     4.5%         89           5
+
+    1. Analyser les tendances (10 pts)
+    2. Calculer les KPIs clés (5 pts)
+    3. Proposer 5 actions pour décembre (15 pts)
+
+   Durée : 1h
+
+
+
+
+Page 87 | Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Module 8 : Analyse des Performances et Data-Driven Marketing
+
+
+
+
+ Élément                                                                    Coefficient
+
+ QCM                                                                        20%
+
+ Cas pratique                                                               30%
+
+ Tableau de bord + rapport                                                  40%
+
+ Participation                                                              10%
+
+

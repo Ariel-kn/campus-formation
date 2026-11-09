@@ -1,0 +1,1 @@
+CREATE INDEX `simulation_schedule_idx` ON `formative_simulations` (`schedule_cron_task_uid`);

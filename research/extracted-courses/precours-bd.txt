@@ -1,0 +1,300 @@
+SUPPORT PRÉPARATOIRE
+
+
+
+
+BUSINESS DIGITAL
+PRÉ-COURS
+Fondamentaux du Business Digital
+
+
+
+
+Économie numérique • modèles d’affaires • analyse de marché
+
+Business Model Canvas • stratégie marketing digitale
+
+
+
+
+Filière :       Business Digital et E-commerce
+
+
+Formateur :       KOUKOUI Néhémie Godwill A. D.
+
+
+Année :         2026 – 2027
+
+
+
+
+Document pédagogique préparatoire                 © 2026–2027 KOUKOUI Néhémie Godwill A. D.
+ Module 1 : Fondamentaux du Business Digital
+Support préparatoire · Fondamentaux du Business Digital
+
+
+       Objectifs du module
+
+       À l'issue de ce module, l'apprenant sera capable de : comprendre les mécanismes de l'économie
+       numérique, identifier les différents modèles d'affaires digitaux, analyser un marché à l'aide
+       d'outils méthodologiques, et structurer un projet d'entreprise digitale avec un Business Model
+       Canvas.
+
+
+Compétences visées
+
+     ■ Comprendre les grands principes de l'économie numérique
+     ■ Analyser un marché et identifier une opportunité business
+     ■ Construire un Business Model Canvas complet
+     ■ Rédiger une proposition de valeur pertinente
+
+Ressources nécessaires
+Canva | Google Sheets | Trello | ChatGPT | Notion | Ordinateur + Internet
+
+
+
+
+Cours 1 : Introduction à l'Économie Numérique
+
+       Objectifs d'apprentissage
+
+       • Définir le concept d'économie numérique et ses piliers fondamentaux.
+       • Identifier les acteurs majeurs (GAFAM, BATX, licornes européennes).
+       • Comprendre l'impact de la digitalisation sur les modèles économiques traditionnels.
+
+
+1.1 Les piliers de l'économie numérique
+
+L'économie numérique repose sur quatre piliers fondamentaux. La dématérialisation des échanges
+permet de vendre des services sans support physique. La data devient le carburant principal de la
+création de valeur. La connectivité permanente (mobile, IoT) redéfinit les points de contact client.
+Enfin, la plateformisation transforme les intermédiaires en écosystèmes multi-faces.
+
+1.2 Les acteurs majeurs
+
+Catégori
+   e                                                                 Exemples
+
+
+GAFA
+M           Google, Apple, Facebook, Amazon, Microsoft
+
+BATX        Baidu, Alibaba, Tencent, Xiaomi (Asie)
+
+
+
+
+  Pré-cours · Business Digital · Module 1                                                         2
+Licorne
+s EU    Spotify, Adyen, Revolut, BlaBlaCar
+
+Startup
+s
+locales     Paiement mobile, e-commerce, edtech
+
+1.3 Les modèles d'affaires digitaux
+
+Les modèles économiques numériques se déclinent en plusieurs formes : l'e-commerce (vente directe
+en ligne), la marketplace (mise en relation vendeurs/acheteurs), l'abonnement (SaaS, contenu
+premium), la publicité (monétisation d'audience) et le freemium (base gratuite + options payantes).
+Chaque modèle implique des logiques de coûts, de revenus et de fidélisation spécifiques.
+
+
+CAS PRATIQUE – Cours 1 : Diagnostic de marché
+
+
+          Situation : Vous souhaitez lancer un service de coaching en ligne pour jeunes
+          entrepreneurs. Le marché est saturé de généralistes. Votre concurrent principal propose des
+          formations vidéo à 199€/mois.
+
+          Travail demandé : 1. Identifiez 3 niches porteuses dans le coaching en ligne.
+          2. Analysez les forces et faiblesses de la concurrence directe.
+          3. Proposez un positionnement unique (USP) différenciant.
+
+          Résultat clé : Un document d'analyse de marché structuré de 2 pages avec
+          recommandations stratégiques.
+
+
+EXERCICE DE PORTFOLIO – Étape 1
+
+
+          Consigne : Rédigez une présentation structurée de 2 pages comprenant : le nom de votre
+          entreprise, le secteur d'activité, la proposition de valeur, et un état des lieux chiffré du marché
+          cible.
+
+          Durée : 45 min | Format : PDF/Word professionnel
+
+
+
+
+Cours 2 : Le Business Model Canvas
+
+      Objectifs d'apprentissage
+
+      • Maîtriser la grille du Business Model Canvas d'Osterwalder.
+      • Articuler les 9 blocs dans une logique cohérente.
+      • Valider les hypothèses clés par des tests terrain.
+
+
+2.1 Les 9 blocs du BMC
+
+
+
+
+  Pré-cours · Business Digital · Module 1                                                                  3
+Le Business Model Canvas est un outil visuel de modélisation stratégique en 9 blocs : Segments
+clients, Proposition de valeur, Canaux, Relation client, Flux de revenus, Ressources clés,
+Activités clés, Partenaires clés et Structure de coûts. Il permet de visualiser l'ensemble du modèle
+d'affaires sur une seule page.
+
+
+CAS PRATIQUE – Cours 2 : Remplissage d'un BMC
+
+
+          Situation : Une application de livraison de repas locaux vous sollicite pour formaliser son
+          modèle économique. Elle compte 2 000 utilisateurs actifs et 50 restaurants partenaires.
+
+          Travail demandé : 1. Remplissez les 9 blocs du BMC pour cette application.
+          2. Identifiez les 3 hypothèses les plus risquées à tester en priorité.
+          3. Proposez un plan de validation pour chaque hypothèse.
+
+          Résultat clé : Un Business Model Canvas complet rempli sur template visuel.
+
+
+EXERCICE DE PORTFOLIO – Étape 2
+
+
+          Consigne : Complétez votre propre Business Model Canvas (1 page) pour l'entreprise
+          choisie lors du cours 1.
+
+          Durée : 1h | Format : PDF de 1 page avec visuel BMC
+
+
+
+
+Cours 3 : Stratégie Marketing Digitale
+
+      Objectifs d'apprentissage
+
+      • Définir des objectifs SMART pour une stratégie digitale.
+      • Choisir les bons canaux d'acquisition selon la cible.
+      • Construire un tunnel de conversion cohérent.
+
+
+3.1 Les objectifs SMART
+
+La méthode SMART structure les objectifs en 5 critères : Spécifique (précis et clair), Mesurable
+(quantifiable), Atteignable (réaliste), Relevant (pertinent pour le business) et Temporel (délimité dans
+le temps). Un objectif SMART ressemble à : « Augmenter le nombre de clients en ligne de 30 % d'ici 6
+mois grâce au SEO et aux campagnes Meta Ads. »
+
+
+3.2 Le tunnel de conversion
+
+ Étape                                      Actions                                        Résultat
+
+
+Découv
+erte   Publicité, SEO, réseaux sociaux                                    Visite du site
+
+Intérêt     Contenu de valeur, lead magnet                                Inscription newsletter
+
+
+
+
+  Pré-cours · Business Digital · Module 1                                                               4
+Consid
+ération     Emails nurture, retargeting                                 Ajout au panier
+
+Conver
+sion        Offre limitée, preuve sociale                               Achat effectif
+
+Fidélisa
+tion     Programme VIP, email post-achat                                Rachat / Recommandation
+
+CAS PRATIQUE – Cours 3 : Construction d'un tunnel
+
+
+          Situation : Une marque de cosmétiques naturels vend des produits à 35-80€. Son taux de
+          conversion est de 0.8%. Le coût d'acquisition client est de 12€ et le panier moyen de 55€.
+
+          Travail demandé : 1. Proposez un tunnel de conversion en 5 étapes adapté à cette marque.
+          2. Calculez le ROAS actuel (55 / 12).
+          3. Proposez 3 actions pour réduire le coût d'acquisition.
+
+          Résultat clé : Un schéma de tunnel de conversion avec indicateurs de performance par
+          étape.
+
+
+EXERCICE DE PORTFOLIO – Étape 3
+
+
+          Consigne : Rédigez la stratégie marketing digitale de votre entreprise : objectifs SMART,
+          canaux choisis et tunnel de conversion.
+
+          Durée : 1h | Format : PDF de 3 pages
+
+
+
+
+Évaluation de Fin de Module 1
+QCM (10 points – 5 questions)
+1. Quelle est la principale caractéristique de l'économie numérique ?
+   a. La production physique
+   b. La scalabilité des services
+   c. L'absence de concurrence
+
+2. Combien de blocs compose le Business Model Canvas ?
+   a. 6
+   b. 9
+   c. 12
+
+3. Dans la méthode SMART, le 'M' signifie :
+   a. Modulaire
+
+
+
+
+  Pré-cours · Business Digital · Module 1                                                              5
+  b. Mesurable
+  c. Managérial
+
+4. Le ROAS se calcule par :
+  a. Revenus / Dépenses publicitaires
+  b. Clics / Impressions
+  c. Conversions / Visiteurs
+
+5. Un tunnel de conversion comprend généralement :
+  a. 3 étapes
+  b. 5 étapes
+  c. 8 étapes
+
+
+Cas pratique (30 points)
+ Sujet : Vous devez présenter le modèle économique d'une nouvelle application de livraison de repas
+ locaux à un investisseur. L'application compte 2 000 utilisateurs, 50 restaurants partenaires et un panier
+ moyen de 18€.
+ 1. Remplissez le Business Model Canvas complet (10 pts)
+ 2. Définissez 3 objectifs SMART pour les 6 premiers mois (10 pts)
+ 3. Proposez un tunnel de conversion adapté (10 pts)
+ Durée : 1h
+
+
+Pondération :
+
+                                            Élément                          Coefficient
+
+
+                      QCM                                               20%
+
+                      Cas pratique                                      30%
+
+                      Portfolio (livrables module)                      40%
+
+                      Participation                                     10%
+
+
+
+
+ Pré-cours · Business Digital · Module 1                                                            6
+

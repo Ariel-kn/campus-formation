@@ -1,0 +1,124 @@
+35:Module 1 : Community Management Fondamental
+43:Module 2 : Création de Contenus Professionnels
+52:Module 3 : Facebook Ads
+60:Module 4 : Instagram Ads
+67:Module 5 : TikTok Ads
+74:Module 6 : WhatsApp Ads
+86:Module 8 : SEO et Visibilité Web
+94:Module 9 : Email Marketing
+101:Module 10 : Analyse des Performances
+388:Module 1 : Community Management Fondamental
+434:1.1 Introduction au Community Management
+453:1.2 Le Panorama des Plateformes et Spécificités Algorithmiques
+496:1.3 Les 5 Missions du CM
+521:1.4 Cadre Légal et Éthique
+582:2.1 Les Compétences Clés du CM
+596:2.2 L'Écosystème Collaboratif
+614:2.3 Les Erreurs à Éviter
+679:3.1 La Méthodologie du Buyer Persona
+706:3.2 Le Tone of Voice
+714:3.3 Les Trois Piliers de Contenu
+774:4.1 L'Anatomie d'un Calendrier Éditorial
+801:4.2 Fréquence et Rythme de Publication
+813:4.3 La Méthode du Batching
+864:5.1 Rituels Communautaires
+882:5.2 Matrice de Modération
+902:5.3 Gestion de Crise d'E-réputation
+963:6.1 Création et Configuration d'une Page Facebook
+981:6.2 Création et Configuration d'un Compte Instagram Professionnel
+990:6.3 Configuration LinkedIn, WhatsApp Business, Telegram, Twitter, YouTube
+1017:6.4 Création d'une Charte de Modération
+1026:6.5 Gestion des Notifications, Commentaires et Messages
+1144:Module 2 : Création de Contenus Professionnels
+1211:1.3 Où et comment trouver l'inspiration
+1253:2.1 La Structure d'un Post Performant
+1267:2.2 Les Techniques de Copywriting
+1284:2.3 Adaptation par Plateforme
+1335:3.1 Dimensions des Formats par Plateforme
+1349:3.2 Techniques de Design Social Media
+1357:3.3 Les Types de Contenus Graphiques
+1399:4.1 Les Formats Vidéo Courts
+1409:4.2 La Structure d'une Vidéo Virale
+1422:4.3 Outils de Montage
+1453:5.1 Stratégie de Contenu Facebook et Instagram
+1468:5.2 Stratégie de Contenu Twitter/X et LinkedIn
+1474:5.3 Stratégie de Contenu TikTok et YouTube
+1514:6.1 Meta Business Suite
+1523:6.2 Outils Tiers
+1535:6.3 Messages Automatisés
+1667:Module 3 : Facebook Ads – Publicité sur Meta
+1718:1.3 Les Objectifs de Campagne
+1767:2.1 Les Formats Publicitaires Meta
+1781:2.2 Rédaction d'Annonces qui Convertissent
+1831:3.1 Les Types d'Audiences
+1844:3.2 Installation du Pixel Meta
+1860:3.3 Stratégies de Ciblage Avancées
+1899:4.1 KPIs Publicitaires Essentiels
+1922:4.2 Techniques d'Optimisation
+2063:Module 4 : Instagram Ads – Stratégies Publicitaires Avancées
+2140:2.1 Le Carrousel Publicitaire
+2149:2.2 Les Stories Ads
+2162:2.3 Instagram Shopping
+2205:3.1 Les Types d'Influenceurs
+2217:3.2 Le Brief Influenceur
+2336:Module 5 : TikTok Ads – Publicité et Viralité
+2388:1.2 Les Codes de TikTok
+2396:1.3 Types de Contenus Performants
+2452:2.1 Objectifs de Campagne TikTok
+2472:2.2 Formats Publicitaires
+2479:2.3 Le Spark Ads (Format Star)
+2521:3.1 Les Règles du Contenu Sponsor TikTok
+2529:3.2 Le Trend Jackacking
+2591:5.1 KPIs TikTok Spécifiques
+2681:1.1 Les avantages du marketing WhatsApp
+2690:1.2 WhatsApp Business App vs WhatsApp Business Platform (API)
+2711:2.1 Qu'est-ce qu'une publicité « Click to WhatsApp » ?
+2717:2.2 Configuration d'une campagne
+2740:3.1 Les réponses automatiques
+2747:3.2 Outils d'intégration
+2770:4.1 KPIs WhatsApp
+2816:1.1 Le fonctionnement du PPC
+2819:1.2 Structure d'un compte Google Ads
+2828:1.3 Types de campagnes Google Ads
+2855:2.1 Le Planificateur de mots-clés (Keyword Planner)
+2864:2.2 Types de correspondance
+2887:3.1 Rédiger une annonce performante
+2890:3.2 Stratégies d'enchères
+2915:4.1 Le Quality Score
+2920:4.2 Les mots-clés négatifs
+2941:Module 6 : SEO – Référencement Naturel et Visibilité Web
+2982:1.2 Les 3 Piliers du SEO
+2995:1.3 Les Facteurs de Classement Principaux
+3036:2.1 La Recherche de Mots-Clés
+3045:2.2 Les Types d'Intention
+3066:2.3 Optimisation On-Page
+3123:3.1 Les Éléments Techniques Essentiels
+3132:3.2 Core Web Vitals
+3163:4.1 Les Backlinks
+3167:4.2 Stratégies de Netlinking
+3231:6.1 Google Business Profile (GBP)
+3235:6.2 Optimisation de la Fiche
+3251:6.3 Gestion des Avis
+3337:Module 7 : Email Marketing – Stratégie et Automation
+3378:1.2 Les Outils d'Email Marketing
+3390:1.3 Construction d'une Base de Contacts
+3438:2.1 Les Types de Segmentation
+3450:2.2 La Personnalisation Avancée
+3493:3.1 Les Scénarios Email Essentiels
+3518:3.2 Exemple : Workflow Panier Abandonné
+3565:4.1 Optimiser le Taux d'Ouverture
+3583:4.2 Optimiser le Taux de Clic
+3590:4.3 A/B Testing
+3692:Module 8 : Analyse des Performances et Data-Driven Marketing
+3743:1.2 Formules Essentielles
+3804:2.1 Configuration de GA4
+3811:2.2 Rapports Essentiels
+3825:2.3 Événements et Conversions
+3866:3.1 Outils de Dashboard
+3876:3.2 Structure d'un Rapport Mensuel
+3916:4.1 La Méthode Data-Driven
+3933:4.2 Exemples de Décisions Data-Driven
+3983:5.1 Pourquoi la Veille ?
+3992:5.2 Comment Mettre en Place une Veille ?
+3999:5.3 Outils de Veille
+4011:5.4 Veille Concurrentielle

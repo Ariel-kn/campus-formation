@@ -1,0 +1,1 @@
+ALTER TABLE `formative_simulations` ADD `schedule_cron_task_uid` varchar(65);

@@ -1,0 +1,485 @@
+Module 7 : Google Ads
+Publicité sur le Réseau de Recherche
+
+
+
+
+Durée : 12 heures (4 séances × 3h)
+Semaines 11 à 12
+Portfolio : Stratégie Google Ads complète
+
+
+
+
+Manuel de Formation · Gestion des Médias Sociaux et Marketing Digital   Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Cours 1 : Introduction à Google Ads
+
+
+
+Objectifs d'apprentissage
+
+  · Comprendre le modèle du Pay-Per-Click (PPC)
+  · Découvrir la structure d'un compte Google Ads
+  · Configurer un compte Google Ads de base
+
+
+
+1.1 Le fonctionnement du PPC
+  Le Pay-Per-Click (PPC) est un modèle de publicité où l'annonceur paie à chaque fois qu'un internaute clique sur sa publicité. Sur Google Ad
+
+1.2 Structure d'un compte Google Ads
+  Compte : Contient les informations de facturation et les utilisateurs.
+
+  Campagne : Organisée autour d'un objectif spécifique (ex: Trafic, Ventes) et d'un budget.
+
+  Groupe d'annonces : Contient des annonces et des mots-clés liés à un thème commun.
+
+  Annonce : Le texte ou la vidéo que l'utilisateur voit sur les résultats de recherche.
+
+1.3 Types de campagnes Google Ads
+  Campagne de recherche : Annonces textuelles sur les résultats de recherche Google.
+
+  Campagne Display : Bannières visuelles sur le réseau d'affichage Google.
+
+  Campagne Shopping : Annonces produits avec images et prix.
+
+  Campagne Vidéo : Publicités vidéo sur YouTube.
+
+  Campagne Application : Promotion d'applications mobiles.
+
+
+
+
+Manuel de Formation · Gestion des Médias Sociaux et Marketing Digital             Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Cours 2 : Recherche de Mots-Clés et Ciblage
+
+
+
+Objectifs d'apprentissage
+
+  · Utiliser le Planificateur de mots-clés
+  · Comprendre les différents types de correspondance (Broad, Phrase, Exact)
+  · Construire une liste de mots-clés pertinents
+
+
+
+2.1 Le Planificateur de mots-clés (Keyword Planner)
+  C'est l'outil gratuit de Google pour trouver des mots-clés et estimer leur potentiel.
+
+  Volume de recherche mensuel : Le nombre moyen de recherches par mois.
+
+  Concurrence : Le nombre d'annonceurs qui font des enchères sur ce mot-clé.
+
+  Enchère suggérée : Le coût par clic (CPC) estimé pour apparaître en première page.
+
+2.2 Types de correspondance
+  Correspondance large (Broad Match) : L'annonce peut apparaître pour des requêtes liées.
+
+  Correspondance d'expression (Phrase Match) : L'annonce apparaît si la requête contient l'ordre exact des mots du mot-clé.
+
+  Correspondance exacte (Exact Match) : L'annonce n'apparaît que si la requête est identique ou très proche du mot-clé.
+
+
+
+
+Manuel de Formation · Gestion des Médias Sociaux et Marketing Digital             Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Cours 3 : Création d'Annonces et Enchères
+
+
+
+Objectifs d'apprentissage
+
+  · Rédiger des annonces textuelles performantes
+  · Comprendre les stratégies d'enchères (CPC manuel, ciblage CPA)
+  · Mesurer le ROI avec le suivi des conversions
+
+
+
+3.1 Rédiger une annonce performante
+  Une bonne annonce Google Ads doit contenir : Un titre accrocheur avec le mot-clé principal, des bénéfices clairs (ex: Livraison gratuite), un
+
+3.2 Stratégies d'enchères
+  Enchère manuelle : Vous définissez le montant maximum que vous êtes prêt à payer par clic.
+
+  CPC maximisé : Google optimise pour obtenir le plus de clics possible dans votre budget.
+
+  Ciblage CPA : Google optimise automatiquement vos enchères pour obtenir le plus de conversions possible pour un coût d'acquisition cible.
+
+  ROAS cible : Optimisation basée sur le retour sur les dépenses publicitaires.
+
+
+
+
+Manuel de Formation · Gestion des Médias Sociaux et Marketing Digital             Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Cours 4 : Optimisation et Analyse
+
+
+
+Objectifs d'apprentissage
+
+  · Analyser les rapports de performance
+  · Identifier les mots-clés négatifs
+  · Optimiser le niveau de qualité (Quality Score)
+
+
+
+4.1 Le Quality Score
+  Le Quality Score est une note de 1 à 10 que Google attribue à vos mots-clés. Un score élevé vous permet de payer moins cher par clic.
+
+  Il est basé sur : La pertinence de l'annonce par rapport au mot-clé, le taux de clic attendu (CTR), et la qualité de la page de destination (Lan
+
+4.2 Les mots-clés négatifs
+  Les mots-clés négatifs permettent d'empêcher vos annonces de s'afficher pour des requêtes non pertinentes.
+
+  Exemple : Si vous vendez des formations avancées en ligne, vous pouvez ajouter gratuit comme mot-clé négatif pour éviter de payer pour d
+
+CAS PRATIQUE
+  Situation : Vous êtes community manager pour TechSolutions Bénin, une entreprise de services informatiques.
+
+  Objectif : Générer des demandes de devis via Google Ads.
+
+  Travail demandé : Trouver 10 mots-clés pertinents avec le Keyword Planner, rédiger 2 annonces textuelles optimisées, définir 5 mots-clés n
+
+
+
+
+Manuel de Formation · Gestion des Médias Sociaux et Marketing Digital           Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+       Module 6 : SEO – Référencement Naturel et Visibilité Web
+
+
+
+
+Module 6 : SEO – Référencement Naturel et Visibilité Web
+Durée : 18 heures (6 séances × 3h)              Semaines 10 à 12          Portfolio : Audit SEO complet + plan d'action
+
+
+
+
+           Objectifs du module
+
+           À l'issue de ce module, l'apprenant sera capable de : comprendre le fonctionnement des
+           moteurs de recherche, réaliser une recherche de mots-clés stratégique, optimiser un site
+           web (on-page et technique), construire une stratégie de netlinking, réaliser un audit SEO
+           complet et maîtriser le référencement local.
+
+
+
+         Cours 1 : Fondamentaux du Référencement                                    3h
+
+
+
+           Objectifs d'apprentissage
+               Comprendre le fonctionnement des moteurs de recherche
+               Maîtriser les 3 piliers du SEO (technique, contenu, autorité)
+               Connaître les facteurs de classement principaux
+
+
+       1.1 Comment Fonctionne Google
+       Le fonctionnement de Google repose sur 3 étapes :
+
+       1. Crawl (Exploration) : Les robots Google (Googlebot) parcourent le web en suivant les liens
+       2. Indexation : Les pages découvertes sont stockées dans l'index de Google
+       3. Classement (Ranking) : L'algorithme classe les pages selon plus de 200 facteurs
+
+
+
+
+       Page 62 | Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Module 6 : SEO – Référencement Naturel et Visibilité Web
+
+
+
+
+1.2 Les 3 Piliers du SEO
+ Pilier                     Description                    Exemples d'actions
+
+ Technique                  La base technique du           Vitesse, mobile-friendly, sécurité HTTPS, structure
+                            site                           URL
+
+ Contenu           (On-     Optimisation des pages         Mots-clés,   titres,   méta-descriptions,    contenu
+ page)                                                     qualitatif
+
+ Autorité          (Off-    Popularité et réputation       Backlinks, mentions, réseaux sociaux, avis
+ page)
+
+
+1.3 Les Facteurs de Classement Principaux
+    Contenu de qualité : Original, complet, pertinent, régulièrement mis à jour
+    Backlinks : Liens entrants de qualité (nombre ET qualité)
+    Expérience utilisateur : Temps sur page, taux de rebond, pages/session
+    Core Web Vitals : LCP (vitesse de chargement), FID (interactivité), CLS (stabilité visuelle)
+    Mobile-first : Google indexe d'abord la version mobile du site
+    E-E-A-T : Experience, Expertise, Authoritativeness, Trustworthiness
+
+    CAS PRATIQUE – Cours 1 : Analyse de positionnement
+
+    Situation : Le site de NaturaBenin (naturabenin.com) est en 15ème position pour "crème
+    naturelle Cotonou" et ne reçoit que 20 visites/mois de Google.
+
+    Travail demandé :
+
+    1. Analyser les 3 piliers SEO du site (simulation : analyser les éléments visibles)
+    2. Identifier les 5 problèmes les plus critiques
+    3. Proposer un plan d'action priorisé (quick wins vs actions long terme)
+    4. Estimer le potentiel de trafic si le site atteint la 1ère page
+
+    Résultat clé : Diagnostic SEO initial avec plan d'action priorisé.
+
+
+
+
+Page 63 | Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Module 6 : SEO – Référencement Naturel et Visibilité Web
+
+
+
+
+  Cours 2 : Recherche de Mots-Clés et Optimisation On-Page                                                 3h
+
+
+
+    Objectifs d'apprentissage
+        Effectuer une recherche de mots-clés stratégique
+        Optimiser les éléments on-page (titres, méta, contenu)
+        Rédiger du contenu SEO performant
+
+
+2.1 La Recherche de Mots-Clés
+Processus de recherche de mots-clés :
+
+1. Brainstorming : Lister tous les termes liés à l'activité
+2. Outils : Google Keyword Planner, Ubersuggest, AnswerThePublic, SEMrush
+3. Analyse de la concurrence : Quels mots-clés ciblent les concurrents ?
+4. Intention de recherche : Informationnelle, Navigationnelle, Transactionnelle
+5. Sélection : Équilibre entre volume de recherche et difficulté
+
+2.2 Les Types d'Intention
+ Type                    Description                       Exemple                            Contenu adapté
+
+ Informationnelle        Cherche                 une       "bienfaits karité peau"            Article de blog, guide
+                         information
+
+ Navigationnelle         Cherche    un           site      "NaturaBenin Cotonou"              Page           d'accueil
+                         spécifique                                                           optimisée
+
+ Transactionnelle        Veut acheter                      "acheter     crème        karité   Page produit,      fiche
+                                                           Cotonou"                           Google
+
+
+
+
+Page 64 | Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Module 6 : SEO – Référencement Naturel et Visibilité Web
+
+
+
+
+2.3 Optimisation On-Page
+ Élément              Règle SEO                      Exemple
+
+ Title tag            50-60      caractères,         "Crème au karité bio Cotonou | NaturaBenin"
+                      mot-clé en début
+
+ Méta                 150-160 caractères,            "Découvrez notre crème au karité 100% bio fabriquée à
+ description          CTA inclus                     Cotonou. Hydratation naturelle. Livraison gratuite.
+                                                     Commandez dès maintenant !"
+
+ URL                  Courte,   descriptive,         /creme-karite-bio-cotonou
+                      avec mot-clé
+
+ Balise H1            1 seule par page, mot-         "Crème au karité bio – Hydratation naturelle"
+                      clé principal
+
+ Contenu              Min. 300 mots, mot-            Paragraphes avec H2, listes, images alt
+                      clé naturel, structuré
+
+ Images               Format      compressé,         alt="pot-creme-karite-naturabenin-cotonou"
+                      attribut ALT descriptif
+
+
+    CAS PRATIQUE – Cours 2 : Optimisation on-page complète
+
+    Situation : La page produit de la crème karité de NaturaBenin n'est pas optimisée pour le
+    SEO.
+
+    Travail demandé :
+
+    1. Effectuer une recherche de mots-clés (10 mots-clés principaux + 5 longue traîne)
+    2. Rédiger le Title tag et la méta description optimisés
+    3. Structurer le contenu de la page (H1, H2, paragraphes, listes)
+    4. Optimiser 3 images (noms de fichiers + attributs ALT)
+    5. Rédiger un article de blog de 500 mots ciblant "bienfaits beurre de karité peau"
+
+    Résultat clé : Page produit et article de blog optimisés pour le SEO.
+
+
+
+
+Page 65 | Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Module 6 : SEO – Référencement Naturel et Visibilité Web
+
+
+
+
+  Cours 3 : SEO Technique et Mobile                                3h
+
+
+
+    Objectifs d'apprentissage
+        Auditer la partie technique d'un site
+        Optimiser la vitesse de chargement
+        Assurer la compatibilité mobile
+
+
+3.1 Les Éléments Techniques Essentiels
+    Vitesse de chargement : Objectif < 3 secondes (outil : PageSpeed Insights, GTmetrix)
+    HTTPS : Certificat SSL obligatoire (sécurité et confiance)
+    Responsive design : Site adapté à tous les écrans
+    Schema markup : Données structurées (avis, produits, FAQ)
+    Sitemap XML : Fichier listant toutes les pages du site
+    Robots.txt : Guide les robots d'exploration
+    URL canoniques : Éviter le contenu dupliqué
+
+3.2 Core Web Vitals
+ Métrique       Mesure                                                  Objectif   Solution si dépassé
+
+ LCP            Temps chargement plus grand élément                     < 2.5s     Optimiser images, CDN, cache
+                visible
+
+ INP            Latence interaction (remplace FID)                      <          Alléger le JavaScript
+                                                                        200ms
+
+ CLS            Décalage visuel inattendu                               < 0.1      Dimensions     fixes    images,
+                                                                                   polices
+
+
+
+
+Page 66 | Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Module 6 : SEO – Référencement Naturel et Visibilité Web
+
+
+
+
+  Cours 4 : Link Building et Autorité                          3h
+
+
+
+    Objectifs d'apprentissage
+        Comprendre l'importance des backlinks
+        Construire une stratégie de netlinking
+        Obtenir des liens qualifiés
+
+
+4.1 Les Backlinks
+Un backlink est un lien provenant d'un autre site vers le vôtre. C'est un vote de confiance dans
+l'algo Google.
+
+4.2 Stratégies de Netlinking
+ Stratégie                     Description                                               Difficulté
+
+ Guest blogging                Écrire un article sur un blog partenaire                  Moyenne
+
+ Partenariats locaux           Échanger des liens avec des entreprises complémentaires   Facile
+
+ Annuaires locaux              S'inscrire sur les annuaires professionnels               Facile
+
+ Presse et médias              Communiqués de presse, interviews                         Moyenne
+
+ Réseaux sociaux               Liens depuis profils, partages de contenu                 Facile
+
+
+    CAS PRATIQUE – Cours 4 : Stratégie de netlinking locale
+
+    Situation : NaturaBenin veut améliorer son autorité pour le référencement local à Cotonou.
+
+    Travail demandé :
+
+    1. Identifier 10 opportunités de backlinks locaux (annuaires, blogs, partenaires)
+    2. Rédiger un email de prospection pour le guest blogging
+    3. Créer un communiqué de presse pour le lancement d'un nouveau produit
+    4. Planifier la stratégie sur 3 mois avec actions hebdomadaires
+
+    Résultat clé : Plan de netlinking actionnable avec 10 opportunités identifiées.
+
+
+
+
+Page 67 | Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Module 6 : SEO – Référencement Naturel et Visibilité Web
+
+
+
+
+  Cours 5 : Audit SEO Complet                              3h
+
+
+
+    ATELIER PRATIQUE – Audit SEO complet
+
+    Consigne : Réalisez un audit SEO complet du site de votre marque portfolio :
+
+        Audit technique (vitesse, mobile, HTTPS, sitemap, robots.txt)
+        Audit on-page (titres, méta, contenu, images, structure)
+        Audit off-page (backlinks, mentions, réseaux sociaux)
+        Recherche de mots-clés et analyse concurrentielle
+        Plan d'action priorisé avec estimation d'impact
+
+    Durée : 3h | Format : Rapport PDF professionnel (8-12 pages)
+
+
+
+  Cours 6 : Local SEO et Google Business Profile                        3h
+
+
+
+    Objectifs d'apprentissage
+        Configurer et optimiser Google Business Profile
+        Maîtriser le référencement local
+        Gérer les avis et la réputation locale
+
+
+6.1 Google Business Profile (GBP)
+Google Business Profile (anciennement Google My Business) est essentiel pour toute entreprise
+locale. C'est la fiche qui apparaît sur Google Maps et dans les résultats locaux.
+
+6.2 Optimisation de la Fiche
+1. Catégorie principale : Choisir la catégorie la plus précise
+2. Description : 750 caractères avec mots-clés locaux
+3. Heures d'ouverture : À jour, y compris jours fériés
+4. Photos : Extérieur, intérieur, produits, équipe (min. 10 photos)
+5. Services/Produits : Liste détaillée avec descriptions
+6. Posts réguliers : Offres, actualités, événements (1-2/semaine)
+
+
+
+Page 68 | Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Module 6 : SEO – Référencement Naturel et Visibilité Web
+
+
+7. Questions/Réponses : Pré-remplir les FAQ
+
+6.3 Gestion des Avis
+    Demander des avis : Après chaque achat, envoyer un lien direct
+    Répondre systématiquement : À tous les avis, positifs et négatifs
+    Réponses aux avis négatifs : Excuses, solution proposée, contact privé
+    Signalement : Signalement des avis faux ou diffamatoires
+
+    CAS PRATIQUE – Cours 6 : Configuration Google Business
+
+    Situation : NaturaBenin ouvre une boutique physique à Cotonou (Akpakpa). Vous devez
+    configurer et optimiser sa fiche Google.
+
+    Travail demandé :
+
+    1. Créer la fiche Google Business Profile complète
+    2. Rédiger la description optimisée (avec mots-clés locaux)
+    3. Créer 5 posts Google (offres, actualités)
+    4. Rédiger les réponses types pour 3 scénarios d'avis (positif, neutre, négatif)
+    5. Proposer un plan de collecte d'avis (email, QR code, SAV)
+
+    Résultat clé : Fiche Google Business opérationnelle et optimisée.
+
+
+
+Évaluation de Fin de Module 6

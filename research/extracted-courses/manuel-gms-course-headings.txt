@@ -1,0 +1,184 @@
+36:    Cours 1 : Fondations et écosystème des réseaux sociaux
+37:    Cours 2 : Profil, compétences et synergies du CM
+38:    Cours 3 : Ligne éditoriale stratégique
+39:    Cours 4 : Calendrier éditorial opérationnel
+40:    Cours 5 : Animation, modération et gestion de crise
+41:    Cours 6 : Configuration technique des plateformes
+44:    Cours 1 : Stratégie de contenu et storytelling
+45:    Cours 2 : Copywriting et techniques narratives
+46:    Cours 3 : Création graphique avec Canva
+47:    Cours 4 : Montage vidéo et formats Reels/Shorts
+48:    Cours 5 : Publication par plateforme (FB, IG, LI, TT, YT)
+49:    Cours 6 : Programmation et automatisation
+50:    Cours 7 : Projet de contenu complet
+53:    Cours 1 : Écosystème publicitaire Meta
+54:    Cours 2 : Création de campagnes performantes
+55:    Cours 3 : Ciblage, audiences et Pixel Meta
+56:    Cours 4 : Optimisation et retour sur investissement
+57:    Cours 5 : Atelier pratique campagne complète
+58:    Cours 6 : Analyse et optimisation avancée
+61:    Cours 1 : Stratégies publicitaires Instagram
+62:    Cours 2 : Formats performants et campagnes
+63:    Cours 3 : Influence marketing et collaborations
+64:    Cours 4 : Atelier pratique et optimisation
+65:    Cours 5 : Instagram Shopping et conversion
+68:    Cours 1 : Écosystème TikTok et algorithmes
+69:    Cours 2 : Création de campagnes TikTok Ads
+70:    Cours 3 : Contenus sponsorisés et viralité
+71:    Cours 4 : Atelier pratique et tendances
+72:    Cours 5 : Analyse des performances TikTok
+75:    Cours 1 : Introduction à WhatsApp Marketing
+76:    Cours 2 : Créer des campagnes Click to WhatsApp
+79:    Cours 4 : Analyse et Optimisation
+81:    Cours 1 : Introduction à Google Ads
+82:    Cours 2 : Recherche de Mots-Clés et Ciblage
+83:    Cours 3 : Création d'Annonces et Enchères
+84:    Cours 4 : Optimisation et Analyse
+87:    Cours 1 : Fondamentaux du référencement
+88:    Cours 2 : Keywords et optimisation on-page
+89:    Cours 3 : SEO technique et mobile
+90:    Cours 4 : Link building et autorité
+91:    Cours 5 : Audit SEO complet
+92:    Cours 6 : Local SEO et Google Business
+95:    Cours 1 : Stratégie d'email marketing
+96:    Cours 2 : Segmentation et personnalisation
+97:    Cours 3 : Automation et scénarios
+98:    Cours 4 : Taux d'ouverture et conversion
+99:    Cours 5 : Atelier pratique campagne email
+102:    Cours 1 : KPIs et indicateurs essentiels
+103:    Cours 2 : Google Analytics 4
+104:    Cours 3 : Tableaux de bord et rapports
+105:    Cours 4 : Data-driven decision making
+106:    Cours 5 : Veille informationnelle
+107:    Cours 6 : Rapport final et présentation
+160:        S1-A                                              Cours 1 : Fondations et écosystème RS      3h   Semaine 1
+162:                                                             Cours 2 : Profil, compétences et
+169:                 Management (18h)                         Cours 3 : Ligne éditoriale stratégique     3h
+173: S2     S2-B                                              Cours 4 : Calendrier éditorial             3h
+180:        S3-                                                  Cours 1 : Stratégie de contenu et             Semaine
+184:                                                            Cours 2 : Copywriting et techniques            Semaine
+188:        S3-                                                 Cours 3 : Création graphique avec              Semaine
+193:                                                          Cours 4 : Montage vidéo Reels/Shorts       3h
+197: S4     S4-B                                              Cours 5 : Publication par plateforme       3h
+204:        S5-                                                    Cours 6 : Programmation et                  Semaine
+212: S5-                              Cours 1 : Écosystème Meta                                   Semaine
+216: S5-                                Cours 2 : Création de                                     Semaine
+220:                                                                     Cours 3 : Ciblage,                 Semaine
+224:         (18h)                                                    Cours 4 : Optimisation et              Semaine
+232:                                                                      Cours 5 : Atelier                  Semaine
+236:                                                                    Cours 1 : Stratégies et              Semaine
+240:                                                                   Cours 2 : Campagnes et                Semaine
+244:                                   Module 4 : Instagram Ads         Cours 3 : Influence                 Semaine
+248:                                                                      Cours 4 : Atelier +                Semaine
+256:                                                                  Cours 1 : Écosystème et               Semaine
+260:                                                                    Cours 2 : Création de                Semaine
+264:                                                                    Cours 3 : Contenus                   Semaine
+268:                                                                      Cours 4 : Atelier                  Semaine
+272:                                                                      Cours 5 : Analyse                  Semaine
+280: S10-                          Cours 1 : Fondamentaux                                         Semaine
+284:                                                               Cours 2 : Keywords et on-                 Semaine
+289: S11                         S11-B                            Cours 3 : SEO technique        3h
+292:                             S11-C                            Cours 4 : Link building        3h
+295:                                                                 Cours 5 : Audit SEO                     Semaine
+299:                                                                 Cours 6 : Local SEO +                   Semaine
+303:                                                               Cours 1 : Stratégie email                 Semaine
+308:           S13-A                                              Cours 2 : Segmentation         3h
+312: S13       S13-B                                              Cours 3 : Automation           3h
+316:           S13-C                                              Cours 4 : Taux d'ouverture     3h
+319:                                                                  Cours 5 : Atelier +                    Semaine
+324: S14       S14-B                                              Cours 1 : KPIs essentiels      3h
+328:           S14-C                                              Cours 2 : Google Analytics 4   3h
+332:           S15-A                                              Cours 3 : Tableaux de bord     3h
+335:                                                                 Cours 4 : Data-driven                   Semaine
+339:                                                                    Cours 5 : Veille                     Semaine
+343:                                                               Cours 6 : Rapport final +                 Semaine
+417:         Cours 1 : Fondations du Community Management et Écosystème des
+530:   CAS PRATIQUE – Cours 1 : Diagnostic de présence sociale
+573:  Cours 2 : Le Profil, les Compétences et les Synergies du Community
+630:   CAS PRATIQUE – Cours 2 : Gestion de crise simulée
+669:  Cours 3 : Conception d'une Ligne Éditoriale Stratégique                                   3h
+727:   CAS PRATIQUE – Cours 3 : Création d'une ligne éditoriale complète
+765:  Cours 4 : Planification Stratégique et Calendrier Éditorial
+818:   CAS PRATIQUE – Cours 4 : Création d'un calendrier mensuel
+855:  Cours 5 : Animation Avancée, Modération Sensible et Gestion de
+923:   CAS PRATIQUE – Cours 5 : Simulation de crise complète
+953:  Cours 6 : Configuration Technique des Plateformes Sociales                           3h
+1035:   CAS PRATIQUE – Cours 6 : Configuration complète multi-plateformes
+1159:         Cours 1 : Stratégie de Contenu et Storytelling                                  3h
+1219:   CAS PRATIQUE – Cours 1 : Storytelling pour NaturaBenin
+1243:  Cours 2 : Copywriting et Techniques Narratives pour Vendre                                          3h
+1301:   CAS PRATIQUE – Cours 2 : Adaptation multi-plateforme
+1317:  Cours 3 : Création Graphique avec Canva                                 3h
+1373:   CAS PRATIQUE – Cours 3 : Création d'un carrousel éducatif
+1389:  Cours 4 : Montage Vidéo et Formats Reels/Shorts/TikTok                                         3h
+1427:   CAS PRATIQUE – Cours 4 : Création d'un Reel "Avant/Après"
+1443:  Cours 5 : Création et Publication de Contenu par Plateforme                            3h
+1480:   CAS PRATIQUE – Cours 5 : Campagne multi-plateforme "Lancement Produit"
+1496:  Cours 6 : Programmation et Automatisation des Contenus                              3h
+1550:   CAS PRATIQUE – Cours 6 : Configuration d'un système automatisé
+1566:  Cours 7 : Projet de Contenu Complet et Évaluation                        3h
+1682:         Cours 1 : Écosystème Meta et Business Manager                                      3h
+1716:5. Configurer le Pixel Meta (voir Cours 3)
+1732:   CAS PRATIQUE – Cours 1 : Configuration Business Manager
+1749:  Cours 2 : Création de Campagnes Performantes                                3h
+1805:   CAS PRATIQUE – Cours 2 : Création d'une campagne "Ventes"
+1821:  Cours 3 : Ciblage, Audiences et Pixel Meta                                   3h
+1866:   CAS PRATIQUE – Cours 3 : Stratégie d'audience complète
+1881:  Cours 4 : Optimisation et Retour sur Investissement                           3h
+1939:   CAS PRATIQUE – Cours 4 : Analyse et optimisation de campagne
+1962:  Cours 5 : Atelier Pratique – Campagne Complète                                    3h
+1994:  Cours 6 : Analyse Avancée et Évaluation                          3h
+2078:         Cours 1 : Stratégies Publicitaires Instagram                                 3h
+2113:    CAS PRATIQUE – Cours 1 : Stratégie multi-placements
+2130:  Cours 2 : Formats Performants et Campagnes de Conversion                              3h
+2170:    CAS PRATIQUE – Cours 2 : Création d'une campagne conversion complète
+2187:  Cours 3 : Influence Marketing et Collaborations                   3h
+2227:    CAS PRATIQUE – Cours 3 : Campagne influence marketing
+2250:  Cours 4 : Atelier Pratique et Instagram Shopping                      3h
+2267:  Cours 5 : Évaluation de Fin de Module                            3h
+2351:         Cours 1 : Écosystème TikTok et Algorithmes                                   3h
+2420:    CAS PRATIQUE – Cours 1 : Analyse algorithmique
+2442:  Cours 2 : Création de Campagnes TikTok Ads                                       3h
+2487:    CAS PRATIQUE – Cours 2 : Campagne TikTok avec Spark Ads
+2511:  Cours 3 : Contenus Sponsorisés et Viralité                        3h
+2547:    CAS PRATIQUE – Cours 3 : Trend jacking et viralité
+2563:  Cours 4 : Atelier Pratique et Tendances                          3h
+2580:  Cours 5 : Analyse des Performances TikTok                             3h
+2669:Cours 1 : Introduction à WhatsApp Marketing
+2699:Cours 2 : Créer des campagnes « Click to WhatsApp »
+2728:Cours 3 : Automatisation et Chatbots
+2758:Cours 4 : Analyse et Optimisation
+2804:Cours 1 : Introduction à Google Ads
+2843:Cours 2 : Recherche de Mots-Clés et Ciblage
+2875:Cours 3 : Création d'Annonces et Enchères
+2903:Cours 4 : Optimisation et Analyse
+2956:         Cours 1 : Fondamentaux du Référencement                                    3h
+3003:    CAS PRATIQUE – Cours 1 : Analyse de positionnement
+3026:  Cours 2 : Recherche de Mots-Clés et Optimisation On-Page                                                 3h
+3089:    CAS PRATIQUE – Cours 2 : Optimisation on-page complète
+3113:  Cours 3 : SEO Technique et Mobile                                3h
+3153:  Cours 4 : Link Building et Autorité                          3h
+3181:    CAS PRATIQUE – Cours 4 : Stratégie de netlinking locale
+3203:  Cours 5 : Audit SEO Complet                              3h
+3221:  Cours 6 : Local SEO et Google Business Profile                        3h
+3257:    CAS PRATIQUE – Cours 6 : Configuration Google Business
+3351:         Cours 1 : Stratégie d'Email Marketing                             3h
+3404:    CAS PRATIQUE – Cours 1 : Stratégie d'acquisition email
+3428:  Cours 2 : Segmentation et Personnalisation                            3h
+3467:    CAS PRATIQUE – Cours 2 : Segmentation et campagne ciblée
+3483:  Cours 3 : Automation et Scénarios                                3h
+3531:    CAS PRATIQUE – Cours 3 : Création d'un workflow automation
+3547:  Cours 4 : Taux d'Ouverture et Conversion                              3h
+3606:    CAS PRATIQUE – Cours 4 : Optimisation complète
+3622:  Cours 5 : Atelier Pratique Campagne Email                        3h
+3706:         Cours 1 : KPIs et Indicateurs Essentiels                             3h
+3760:   CAS PRATIQUE – Cours 1 : Tableau de bord KPIs
+3794:  Cours 2 : Google Analytics 4                         3h
+3841:   CAS PRATIQUE – Cours 2 : Configuration GA4 et analyse
+3856:  Cours 3 : Tableaux de Bord et Rapports Professionnels                                        3h
+3890:   CAS PRATIQUE – Cours 3 : Rapport mensuel complet
+3906:  Cours 4 : Data-Driven Decision Making                            3h
+3946:   CAS PRATIQUE – Cours 4 : Analyse décisionnelle
+3965:  Cours 5 : Stratégie de Veille Informationnelle et Concurrentielle                                    3h
+4029:   CAS PRATIQUE – Cours 5 : Veille avec Google Alerts
+4044:  Cours 6 : Rapport Final et Soutenance                            3h

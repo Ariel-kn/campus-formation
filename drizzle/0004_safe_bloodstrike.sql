@@ -1,0 +1,1 @@
+ALTER TABLE `deliverables` ADD `isLate` boolean DEFAULT false NOT NULL;
