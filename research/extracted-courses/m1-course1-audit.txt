@@ -1,0 +1,171 @@
+          Élaborer une stratégie social media complète
+
+       Ressources nécessaires
+        Canva Meta Business Suite            Google Drive      Google Docs       ChatGPT      Notion    Trello   Smartphone
+        Ordinateur + Internet
+
+
+         Cours 1 : Fondations du Community Management et Écosystème des
+         Réseaux Sociaux 3h
+
+          Objectifs d'apprentissage
+              Définir précisément le rôle d'un Community Manager et ses frontières professionnelles
+              Analyser l'écosystème des principaux réseaux sociaux et décoder leurs algorithmes
+              Appliquer les règles éthiques et le cadre légal liés à la gestion de contenus
+
+
+
+
+       Page 10 | Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Module 1 : Community Management Fondamental
+
+
+
+
+1.1 Introduction au Community Management
+Le Community Management désigne l'activité de gestion, d'animation et de développement
+d'une communauté virtuelle de membres (clients, prospects, passionnés) autour d'un intérêt
+commun, d'une marque, d'une cause ou d'une institution.
+
+L'évolution du métier
+Né avec l'avènement du Web 2.0 et des premiers forums, le métier s'est professionnalisé. On est
+passé d'un simple rôle d'exécutant publiant du texte à un véritable stratège de la relation client
+et de l'image de marque. Aujourd'hui, le Community Manager est un professionnel chargé de
+développer la visibilité d'une marque, renforcer son image, créer une relation durable avec son
+audience et transformer cette communauté en véritable levier de croissance.
+
+Le CM comme pont relationnel
+
+Le Community Manager occupe une place charnière. Il est la voix de l'entreprise auprès des
+internautes (il transmet les messages, les valeurs et l'actualité de la marque) et, simultanément, il
+est l'avocat des utilisateurs auprès de l'entreprise (il fait remonter les avis, les critiques et les
+suggestions pour améliorer les produits ou services).
+
+1.2 Le Panorama des Plateformes et Spécificités Algorithmiques
+Chaque réseau social possède ses propres codes graphiques, sa typologie d'audience et ses
+priorités techniques. Pour être efficace, un CM ne diffuse pas le même message partout de la
+même manière.
+
+
+
+
+Page 11 | Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Module 1 : Community Management Fondamental
+
+
+
+
+ Plateforme           Audience                 Format privilégié     Algorithme
+
+ Facebook             Généraliste, 25-55       Vidéos, groupes,      Privilégie les interactions de proximité
+                      ans                      stories               (commentaires longs, partages privés)
+
+ Instagram            Jeune, 18-35 ans         Reels,     Stories,   Valorise le taux de rétention et les
+                                               Carrousels            enregistrements
+
+ LinkedIn             Professionnels,          Articles,             Met en avant les contenus à forte valeur
+                      B2B                      carrousels            ajoutée
+                                               éducatifs
+
+ TikTok               Jeune, 16-30 ans         Vidéos     courtes    La page "Pour toi" ne dépend pas du
+                                               verticales            nombre d'abonnés mais du taux de
+                                                                     complétion
+
+ X (Twitter)          Actualité,    20-45      Micro-blogging,       Privilégie l'immédiateté et les interactions
+                      ans                      threads               rapides
+
+ WhatsApp             Local, proximité         Catalogues,           Marketing      conversationnel            et
+ Business                                      messages directs      automatisation
+
+ YouTube              Tous âges                Vidéos longues et     Privilégie la durée de visionnage et
+                                               Shorts                l'engagement
+
+ Telegram             Communautés              Canaux, groupes,      Diffusion massive sans algorithme filtrant
+                      engagées                 bots
+
+
+1.3 Les 5 Missions du CM
+ Mission           Description                                                    Livrable
+
+ Stratégie         Définir à qui l'on s'adresse, comment on s'exprime et          Ligne   éditoriale,      Buyer
+                   sur quels sujets                                               Persona
+
+ Création          Concevoir les textes, choisir les formats visuels ou           Contenus graphiques, vidéos,
+                   vidéo adaptés                                                  copy
+
+ Planification     Organiser la diffusion des messages dans le temps              Calendrier éditorial
+
+ Animation         Dialoguer avec l'audience, répondre aux questions,             Rituel communautaire, SAV
+                   modérer
+
+ Analyse           Mesurer les résultats pour vérifier les objectifs              Rapport KPI, tableau de bord
+
+
+
+
+Page 12 | Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Module 1 : Community Management Fondamental
+
+
+
+
+1.4 Cadre Légal et Éthique
+   Droit d'auteur : Une image ou musique trouvée sur Internet n'est pas libre d'utilisation. Utiliser
+   ses propres créations, des banques d'images libres ou obtenir l'accord écrit des auteurs.
+   Données personnelles : Respecter la vie privée des utilisateurs lors des jeux-concours et
+   collectes de données.
+   Transparence : Indiquer clairement les contenus sponsorisés et partenariats commerciaux.
+   Charte de modération : Document interne définissant les règles de participation et les
+   sanctions.
+
+   CAS PRATIQUE – Cours 1 : Diagnostic de présence sociale
+
+   Situation : Vous êtes consultant en community management. Une boutique de restauration
+   rapide à Cotonou ("Bouff'Express") vous sollicite pour améliorer sa présence digitale.
+
+   Données : La boutique a une page Facebook avec 180 j'aime, 3 publications par mois
+   irrégulières, aucun Instagram, aucune réponse aux commentaires. Son concurrent direct
+   "FastFood Cotonou" a 4 200 abonnés Instagram, publie 1 Reel par jour et répond aux
+   messages en moins de 30 minutes.
+
+   Travail demandé :
+
+    1. Lister les 3 forces et 3 faiblesses de la présence actuelle de Bouff'Express
+    2. Identifier 2 opportunités immédiates sur chaque plateforme (Facebook, Instagram)
+    3. Rédiger un mini-diagnostic (1 page) avec 5 recommandations prioritaires
+    4. Choisir cette entreprise comme sujet pour votre projet de portfolio
+
+   Résultat clé : Un document de diagnostic initial structuré, comprenant l'état des lieux chiffré
+   des communautés, un mini-audit de la concurrence et des recommandations actionnables.
+
+
+
+
+Page 13 | Reproduction interdite | KOUKOUI Néhémie Godwill A. D.
+Module 1 : Community Management Fondamental
+
+
+
+
+   EXERCICE DE PORTFOLIO – Étape 1 : Conception de la Fiche d'Identité
+
+   Consigne : Rédigez une présentation structurée de 2 pages maximum comprenant :
+
+       Le nom, le secteur d'activité, la localisation et l'offre commerciale de l'entreprise choisie
+       Un état des lieux chiffré de ses communautés actuelles (nombre d'abonnés, fréquence
+       de publication)
+       Un mini-audit de la concurrence : 2 concurrents directs et ce qu'ils font de mieux
+       éditorialement
+
+   Durée : 45 min | Format : PDF/Word professionnel
+
+
+
+  Cours 2 : Le Profil, les Compétences et les Synergies du Community
+  Manager 3h
+
+   Objectifs d'apprentissage
+       Différencier les compétences techniques (Hard Skills) et comportementales (Soft Skills)
+       Structurer les relations inter-services et organiser un flux de travail collaboratif
+       Identifier et contourner les erreurs opérationnelles classiques des débutants
+

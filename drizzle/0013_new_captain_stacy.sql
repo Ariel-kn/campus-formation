@@ -1,0 +1,1 @@
+ALTER TABLE `assessments` ADD `isOpen` boolean DEFAULT false NOT NULL;

@@ -1,0 +1,450 @@
+PRÉ-COURS
+
+
+
+Du Marketing Digital
+Professionnel
+
+
+    Fondamentaux et profils professionnels
+
+
+
+
+Filière d’étude :   Marketing digital professionnel
+
+Formateur : KOUKOUI Néhémie                                          © 2026-2027 KOUKOUI Néhémie Godwill A. D.
+                                                      Tout droit réservé — Reproduction partielle ou totale interdite
+Année académique :       2026–2027
+  REPÈRES DU PRÉ-COURS
+
+ Ce pré-cours rassemble deux ensembles complémentaires : comprendre les bases du
+ marketing digital, puis découvrir les fonctions et profils qui composent cet univers
+ professionnel.
+
+
+                      PARCOURS A                                            PARCOURS B
+
+
+  Comprendre le marketing digital                         Les métiers du marketing numérique
+
+
+  Définitions, objectifs, avantages, canaux et piliers.   Fonctions clés et cinq profils professionnels issus
+                                                          des captures fournies.
+
+
+
+
+  Objectif général
+
+  Former des professionnels capables de concevoir, mettre en œuvre, gérer et analyser une
+  stratégie complète de communication et de marketing digital pour une entreprise, une
+  institution ou un projet personnel.
+
+
+
+
+Pré-cours • Marketing digital professionnel                                                                     2
+ PARCOURS A
+
+
+ Comprendre le marketing digital
+ Durée : 6 heures — 4h de cours théorique / 2h de TP en classe
+
+ Objectifs pédagogiques
+  • Définir précisément le marketing digital.
+  • Expliquer son importance pour les entreprises.
+  • Différencier le marketing traditionnel et le marketing digital.
+  • Identifier les principaux canaux numériques.
+  • Comprendre le parcours d'un client sur Internet.
+  • Reconnaître les métiers du marketing digital.
+  • Élaborer une stratégie digitale simple.
+
+ Introduction
+ Imaginez deux commerçants. Le premier imprime 5 000 affiches, les distribue dans toute
+ la ville et attend les clients. Le second publie une publicité Facebook ciblant uniquement
+ les femmes de 25 à 45 ans vivant à Cotonou, intéressées par les cosmétiques naturels. Il
+ dépense seulement 10 000 FCFA et obtient 80 commandes.
+
+ Le second a utilisé ses ressources de manière plus efficace parce qu'il a utilisé le
+ marketing digital.
+
+ Aujourd'hui, la majorité des consommateurs recherchent des informations sur Internet
+ avant d'acheter. Les entreprises doivent donc être présentes là où se trouvent leurs
+ clients : sur les moteurs de recherche, les réseaux sociaux, les plateformes vidéo et les
+ applications mobiles.
+
+ 1. Définition du marketing digital
+ Le marketing digital est l'ensemble des techniques, stratégies et outils utilisés sur les
+ supports numériques afin de promouvoir une entreprise, une marque, un produit ou un
+ service, attirer des prospects, les convertir en clients et les fidéliser.
+
+ Il ne s'agit pas seulement de publier des photos sur Facebook. C'est une discipline qui
+ combine :
+
+  • la communication ;
+  • la psychologie du consommateur ;
+  • l'analyse des données ;
+  • la publicité ;
+  • la création de contenu ;
+  • les technologies numériques.
+
+ 2. Les objectifs du marketing digital
+ Une entreprise ne fait pas du marketing digital « pour être présente sur Facebook ». Elle
+ poursuit des objectifs mesurables :
+
+ Accroître la visibilité
+
+
+
+Pré-cours • Marketing digital professionnel                                                   3
+ Faire connaître une entreprise auprès d'un plus grand nombre de personnes.
+ Générer des prospects
+
+ Un prospect est une personne susceptible de devenir cliente. Le marketing digital attire ces
+ personnes qualifiées.
+ Transformer les prospects en clients
+
+ Le marketing digital accompagne les prospects jusqu'à l'achat grâce à des contenus et des
+ offres adaptées.
+ Fidéliser les clients
+
+ Un client satisfait peut acheter plusieurs fois et recommander l'entreprise. La fidélisation
+ coûte généralement moins cher que l'acquisition.
+
+ 3. Pourquoi le marketing digital est-il devenu indispensable ?
+ Les habitudes de consommation ont profondément changé. Avant d'acheter un téléphone,
+ de choisir un restaurant ou de réserver un hôtel, beaucoup de personnes consultent des
+ avis en ligne, comparent les prix et regardent des vidéos.
+
+                          Avant                                               Aujourd'hui
+
+
+                                                              Google, Facebook, Instagram, TikTok, WhatsApp,
+           Télévision, radio, journaux, affiches
+                                                                            YouTube, LinkedIn
+
+
+
+ 4. Les avantages du marketing digital
+ Ciblage précis
+
+ Contrairement aux médias traditionnels, il est possible de choisir précisément les personnes
+ qui verront une publicité selon leur âge, leur localisation, leurs centres d’intérêt ou leurs
+ comportements.
+ Coût réduit
+
+ Avec quelques milliers de francs CFA, une petite entreprise peut toucher des milliers de
+ personnes.
+ Résultats mesurables
+
+ On peut connaître le nombre de personnes ayant vu une publicité, le nombre de clics, le coût
+ par clic et le nombre de ventes générées.
+ Interaction avec les clients
+
+ Les réseaux sociaux permettent un dialogue direct avec les consommateurs. Cette
+ proximité favorise la confiance et la fidélité.
+
+ 5. Marketing traditionnel vs Marketing digital
+            Critère                      Marketing traditionnel                    Marketing digital
+
+ Support                            TV, radio, affiches, presse            Internet, réseaux sociaux, moteurs
+                                                                           de recherche
+
+ Coût                               Souvent élevé                          Flexible et accessible
+
+
+
+
+Pré-cours • Marketing digital professionnel                                                                     4
+ Ciblage                            Large                           Très précis
+
+ Mesure des résultats               Limitée                         Très détaillée
+
+ Interaction                        Faible                          Immédiate
+
+ Ajustement des                     Lent                            Rapide
+ campagnes
+
+
+ 6. Les piliers du marketing digital
+  • Le référencement naturel (SEO) pour être visible sur Google ;
+  • La publicité en ligne (SEA) pour toucher rapidement une audience ciblée ;
+  • Le marketing sur les réseaux sociaux pour créer une communauté et développer la
+    notoriété ;
+  • Le marketing de contenu pour attirer les clients grâce à des informations utiles ;
+  • L'email marketing pour fidéliser et relancer les prospects ;
+  • L'analyse des données pour mesurer les résultats et améliorer les actions.
+ Aucun de ces leviers ne fonctionne de façon isolée : c'est leur combinaison qui permet
+ d'obtenir les meilleurs résultats.
+
+
+  À retenir
+
+  • Le marketing digital est une stratégie globale, pas seulement une présence sur les
+  réseaux sociaux.
+  • Il permet de cibler précisément les clients, de mesurer les résultats et d’optimiser les
+  actions.
+  • Les principaux objectifs sont la visibilité, l’acquisition, la conversion et la fidélisation.
+  • La réussite repose sur la combinaison de plusieurs leviers (SEO, publicité, contenu,
+  réseaux sociaux, e-mailing et analyse).
+
+
+ TRAVAUX PRATIQUES (En classe — Durée : 2h)
+ Exercice — Analyse de la présence numérique de MTN Bénin
+
+ Pour ce TP, vous travaillerez sur l’entreprise MTN Bénin. Consultez ses canaux numériques
+ officiels et rédigez une analyse de deux pages au plus répondant aux questions suivantes
+ :
+
+  • Quels canaux digitaux utilise-t-elle ?
+  • Quels sont ses points forts ?
+  • Quelles sont ses faiblesses ?
+  • Proposez cinq actions concrètes pour améliorer sa présence en ligne.
+
+ EXERCICE À LA MAISON (À réaliser individuellement)
+ Choisissez une entreprise de votre choix. Recherchez les informations nécessaires,
+ analysez sa présence numérique et répondez aux questions suivantes :
+
+  • Nom et secteur d'activité de l'entreprise.
+  • Les canaux digitaux qu'elle utilise (réseaux sociaux, site web, Google Maps…).
+  • Ceux qu'elle n'utilise pas encore.
+
+
+Pré-cours • Marketing digital professionnel                                                         5
+  • Ses points forts et ses points faibles en matière de communication digitale.
+  • 5 actions prioritaires que vous recommandez pour améliorer sa visibilité.
+
+  Consigne importante — travail personnel
+
+  N’utilisez pas l’intelligence artificielle pour réaliser cet exercice. Ce travail permettra de
+  connaître votre niveau réel afin de vous aider à progresser et à mieux vous orienter. Vous
+  pouvez utiliser le support de cours et les informations publiques disponibles sur l’entreprise
+  choisie.
+
+
+
+
+Pré-cours • Marketing digital professionnel                                                        6
+ PARCOURS B
+
+
+ Les métiers du marketing numérique
+ Durée : 6 heures — 4h de cours théorique / 2h de TP en classe
+
+ Introduction
+ Le marketing digital n'est pas un métier unique, mais un écosystème de professions
+ complémentaires.
+
+ Derrière chaque publication sur les réseaux sociaux, chaque publicité sur Facebook ou
+ TikTok, chaque site bien positionné sur Google, il y a une équipe de spécialistes avec des
+ rôles précis.
+
+ Comprendre ces métiers permet de répondre à trois questions fondamentales :
+
+  • Quel métier correspond à mon profil ?
+  • Quelles compétences dois-je développer en priorité ?
+  • Comment évolue une carrière dans le digital ?
+
+ Objectifs pédagogiques
+  • Identifier les principaux métiers du marketing digital.
+  • Comprendre les missions quotidiennes de chaque rôle.
+  • Distinguer les compétences techniques et humaines requises.
+  • Choisir une orientation professionnelle cohérente.
+  • Comprendre les évolutions de carrière possibles.
+
+ Les grandes fonctions du marketing digital
+ Le marketing digital repose sur cinq fonctions clés :
+
+  • Création de contenu (textes, vidéos, visuels)
+  • Diffusion et communication (réseaux sociaux, publicité)
+  • Analyse de données (performance, ROI, trafic)
+  • Optimisation de visibilité (SEO, référencement)
+  • Relation client (engagement, fidélisation)
+
+ Les métiers à reconnaître
+ Avant de découvrir les témoignages, étudiez les cinq métiers suivants. Pour chacun,
+ retenez les missions principales et les compétences nécessaires.
+
+ Responsable marketing numérique
+
+ Définit la stratégie pour promouvoir l'image d'une marque et trouver de nouveaux clients.
+ Coordonne une équipe, met en place un plan d'actions et assure le suivi des plannings et des
+ budgets. Ce métier demande de l'organisation, des capacités d'analyse et une bonne
+ résistance au stress.
+ Chargé d'études marketing
+
+ Analyse les données de consommation et les tendances du marché afin de proposer des
+ stratégies adaptées. Il contribue à fidéliser les clients existants et à en trouver de nouveaux.
+ Ce métier demande de la rigueur, une aisance avec les chiffres, un bon sens de l'observation
+
+
+Pré-cours • Marketing digital professionnel                                                         7
+ et de l'inventivité.
+ Chef ou cheffe de projet marketing
+
+ Connaît les attentes et les besoins des consommateurs, coordonne les équipes et
+ accompagne le lancement de nouveaux produits. Il ou elle conçoit et réalise des campagnes
+ de promotion en ligne. Ce métier demande de savoir communiquer, de proposer des idées et
+ de négocier.
+ Concepteur ou conceptrice rédactrice
+
+ Crée des contenus adaptés à la stratégie marketing d'un client pour une diffusion sur les
+ sites internet et les réseaux sociaux. Travaille avec des photographes et des graphistes,
+ s'adapte aux plannings et trouve l'idée qui touchera la cible. Ce métier demande de la
+ créativité, de l'adaptation et une bonne qualité rédactionnelle.
+ Manageur ou manageuse de traffic
+
+ Améliore la visibilité d'une entreprise en utilisant le site internet, les réseaux sociaux, les
+ campagnes publicitaires en ligne et les envois de mails ciblés. Suit les indicateurs, gère les
+ budgets, adapte les campagnes aux marchés et reste en veille sur les technologies. Ce
+ métier demande de maîtriser les budgets et l'analyse des statistiques.
+
+ Les témoignages à deviner
+ Lisez attentivement chaque témoignage. À partir des missions, des compétences et du
+ contexte de travail, essayez de deviner le métier correspondant.
+
+
+    Mounia
+    Métier à deviner
+
+    Bonjour, je suis Mounia. J'ai 40 ans et je travaille depuis 8 ans pour une grande banque marocaine.
+    Je définis la stratégie pour promouvoir l'image de notre marque et trouver de nouveaux clients.
+    Je gère une équipe de 5 personnes qui s'occupent de mettre en place un plan d'actions. Je suis
+    responsable de tous les plannings et budgets des actions de marketing numérique.
+    Mon poste réclame des compétences d'organisation, des capacités d'analyse et une bonne
+    résistance au stress car je reçois chaque jour beaucoup d'informations à traiter.
+
+
+
+    Messan
+    Métier à deviner
+
+    Bonjour je m'appelle Messan, j'ai 25 ans et je travaille dans une entreprise de télécommunications
+    en République centrafricaine.
+    Je m'occupe d'analyser les données de consommation sur nos réseaux de téléphonie et je propose
+    différentes stratégies marketing pour fidéliser nos clients existants et en trouver de nouveaux.
+    Je suis rigoureux, très à l’aise avec les chiffres et très observateur pour analyser les tendances du
+    marché. Je dois être aussi inventif pour trouver à chaque fois des actions marketings adaptées au
+    profil de nos cibles.
+
+
+
+
+Pré-cours • Marketing digital professionnel                                                                 8
+    Tahina
+    Métier à deviner
+
+    Bonjour, je suis Tahina, 32 ans. Je travaille pour une chaîne de restauration rapide à Madagascar.
+    Ma mission est d’augmenter les ventes et le nombre de consommateurs dans nos restaurants en
+    utilisant les outils de communication numérique.
+    Pour cela, je dois bien connaître les attentes et besoins des consommateurs pour construire
+    l’équipe qui conçoit nos menus. À chaque lancement d’un nouveau produit, je conçois et réalise
+    une campagne de promotion en ligne.
+    Dans mon métier, on a besoin de savoir communiquer avec toutes les équipes : ceux qui
+    fabriquent et ceux qui s'occupent de vendre. Il faut être capable de proposer tout le temps de
+    nouvelles idées pour améliorer les produits mais aussi savoir bien négocier pour mettre tout le
+    monde d'accord.
+
+
+
+    Justine
+    Métier à deviner
+
+    Bonjour, je m'appelle Justine, j'ai 22 ans. Je travaille à mon compte, principalement pour des
+    institutions publiques comme les musées, des associations, ou des ministères qui sont dans mon
+    pays, le Cameroun, mais pas seulement. J'ai des clients partout dans le monde.
+    Mon métier consiste à créer des contenus adaptés à la stratégie marketing de mes clients qui vont
+    ensuite être diffusés sur des sites internet, des réseaux sociaux.
+    Je travaille souvent avec d'autres indépendants comme moi, des photographes ou des graphistes
+    par exemple, qui m'aident à produire les contenus. Je dois m'adapter au planning de mes clients et
+    être capable de passer d'un sujet à l'autre, en trouvant toujours la bonne idée qui va toucher la
+    cible.
+
+
+
+    Fouzia
+    Métier à deviner
+
+    Bonjour, je suis Fouzia, 28 ans. Je travaille pour une entreprise de tourisme en Tunisie. Mon but est
+    d'améliorer la visibilité de notre société en ligne en utilisant tous les outils possibles : site internet,
+    réseaux sociaux, campagnes publicitaires en ligne, envois de mails ciblés, etc.
+    J'ai des objectifs précis à atteindre donc je surveille en permanence les indicateurs comme le
+    nombre de vues ou le nombre de fois que quelqu'un cite le nom de l'entreprise en ligne. Nous
+    visons un marché international donc j'adapte à chaque fois les campagnes de promotion aux pays.
+    Je suis très à l'aise avec la gestion d'un budget et l'analyse des statistiques pour vérifier que mes
+    actions ont bien un impact. Je suis aussi toujours en veille des nouveautés pour rester à jour sur
+    les dernières technologies.
+
+
+
+  À retenir
+
+  • Le marketing digital repose sur une organisation structurée de métiers spécialisés.
+  • Chaque rôle contribue à un objectif commun : attirer, engager et convertir les clients.
+  • Comprendre ces métiers permet de mieux se former, mieux choisir sa carrière et mieux
+  travailler en équipe.
+
+
+ Exemples concrets
+
+
+
+
+Pré-cours • Marketing digital professionnel                                                                       9
+ • Une grande banque s’appuie sur une responsable marketing numérique pour définir sa
+ stratégie et coordonner ses actions.
+ • Une entreprise de télécommunications mobilise un chargé d’études marketing pour
+ analyser les données et proposer des stratégies de fidélisation.
+ • Une chaîne de restauration rapide fait appel à une cheffe de projet marketing pour
+ concevoir et réaliser une campagne de promotion en ligne.
+ • Des institutions publiques collaborent avec une conceptrice rédactrice pour produire des
+ contenus adaptés à leur stratégie marketing.
+ • Une entreprise de tourisme confie à une manageuse de traffic la visibilité en ligne, le
+ suivi des indicateurs et l’adaptation des campagnes aux marchés visés.
+
+ TRAVAUX PRATIQUES (En classe — Durée : 2h)
+ Cas pratique 1 — Identifier les métiers nécessaires
+
+ Une entreprise lance un nouveau produit. Elle a besoin de :
+
+  • visibilité rapide sur les réseaux sociaux ;
+  • engagement communautaire ;
+  • ventes immédiates.
+ Travail demandé : Identifier les métiers nécessaires et expliquer le rôle de chacun.
+
+ Cas pratique 2 — Organiser une campagne numérique
+
+ Une entreprise veut améliorer sa visibilité en ligne et adapter ses actions aux profils de
+ ses cibles.
+
+ Travail demandé : Choisissez parmi les cinq profils présentés ceux qui interviendraient.
+ Décrivez leurs trois premières actions.
+
+ EXERCICE À LA MAISON (À remettre en PDF)
+ Rédigez un document PDF de 20 lignes minimum et de 30 lignes maximum. Expliquez
+ quel métier vous choisissez et pourquoi, en vous basant sur votre connaissance de chacun
+ des métiers et sur votre connaissance de vos capacités et compétences personnelles.
+
+  • Nommez clairement le métier choisi.
+  • Expliquez ce que vous avez compris de ses missions principales.
+  • Présentez les capacités et compétences personnelles qui correspondent à ce métier.
+  • Expliquez les compétences que vous devez encore améliorer.
+  • Justifiez votre choix avec des arguments personnels.
+
+  Consigne importante — travail personnel
+
+  N’utilisez pas l’intelligence artificielle pour rédiger cet exercice. Il permettra de connaître
+  votre niveau réel, de vous aider à améliorer vos compétences et de mieux vous orienter.
+
+
+
+ Fin du pré-cours
+ Ce document constitue une base de préparation avant l’étude complète du programme de marketing
+ digital professionnel.
+
+
+
+
+Pré-cours • Marketing digital professionnel                                                         10
+

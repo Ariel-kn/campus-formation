@@ -1,0 +1,14 @@
+run = "npm run dev"
+entrypoint = "server/_core/index.ts"
+
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = ["npm", "start"]
+build = ["npm", "run", "build"]
+deploymentTarget = "cloudrun"
+
+[[ports]]
+localPort = 3000
+externalPort = 80

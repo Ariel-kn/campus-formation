@@ -1,0 +1,78 @@
+13:Programme de 7 mois (4 mois de cours + 1 mois de projet + 2 mois de stage)
+19:10 modules professionnels + projet fil rouge + portfolio
+50:    Cours 7 : Projet de contenu complet
+110:Mois 5 : Projet Fil Rouge et Portfolio
+114:Grille d'Évaluation Finale
+120:Grille d'Évaluation Finale
+137: et pratiques                          mois       × 3h)               pratiques, évaluations
+139: Phase 2 : Projet fil rouge            1 mois     36h (12 séances     Conception et réalisation d'un projet
+177:                                                          TP : Création calendrier + évaluation M1   3h
+252:                                                                  Évaluation modules 3 et                Semaine
+301:                                                              évaluation                                12
+321:                                                              évaluation                                14
+389:Durée : 18 heures (6 séances × 3h)             Semaines 1 à 2             Portfolio : Projet fil rouge – Étape 1 à 6
+497: Mission           Description                                                    Livrable
+545:    4. Choisir cette entreprise comme sujet pour votre projet de portfolio
+559:   EXERCICE DE PORTFOLIO – Étape 1 : Conception de la Fiche d'Identité
+593: Gestion de projet et planification                                Créativité et sens de l'initiative
+655:   EXERCICE DE PORTFOLIO – Étape 2 : Charte de Collaboration
+751:   EXERCICE DE PORTFOLIO – Étape 3 : Document de Charte Éditoriale
+843:   EXERCICE DE PORTFOLIO – Étape 4 : Calendrier Éditorial Mensuel
+868:   "Le quiz du vendredi" – engagement ludique hebdomadaire
+941:   EXERCICE DE PORTFOLIO – Étape 5 : Guide de Modération et Protocole de Crise
+943:   Consigne : Finalisez votre livrable avec un guide de synthèse opérationnelle (2-3 pages) :
+1058:   EXERCICE DE PORTFOLIO – Étape 6 : Livrable Module 1 – Stratégie CM Complète
+1060:   Consigne : Compilez l'ensemble des livrables du Module 1 en un dossier stratégique
+1074:Évaluation de Fin de Module 1
+1075:Partie A – QCM (5 questions)
+1124: QCM de fin de module                                                        20%
+1128: Livrables du projet portfolio (Étapes 1-6)                                  40%
+1145:Durée : 21 heures (7 séances × 3h)            Semaines 3 à 5              Portfolio : Projet contenu multimédia complet
+1566:  Cours 7 : Projet de Contenu Complet et Évaluation                        3h
+1576:   PROJET FINAL MODULE 2 – Package de Contenu Complet
+1600:Évaluation de Fin de Module 2
+1601:QCM (5 questions)
+1642:   Durée : 1h30 | Livrables : Briefs complets avec copywriting et consignes visuelles
+1647: QCM                                                                    20%
+1651: Projet portfolio package contenu                                       40%
+1994:  Cours 6 : Analyse Avancée et Évaluation                          3h
+1997:Évaluation de Fin de Module 3
+1998:QCM (5 questions)
+2043: QCM                                                                  20%
+2158:    Interactivité : Sondages, quiz, compte à rebours, curseurs
+2234:    1. Créer une fiche de sélection des influenceurs (critères, grille d'évaluation)
+2267:  Cours 5 : Évaluation de Fin de Module                            3h
+2270:QCM (5 questions)
+2316: QCM                                                               20%
+2605:Évaluation de Fin de Module 5
+2606:QCM (5 questions)
+3274:Évaluation de Fin de Module 6
+3275:QCM (5 questions)
+3317: QCM                                                               20%
+3411:    1. Créer 3 lead magnets pertinents pour la cible (guide, quiz, réduction)
+3639:Évaluation de Fin de Module 7
+3640:QCM (5 questions)
+3672: QCM                                                               20%
+4048:   PROJET FINAL – Tableau de bord et rapport stratégique
+4061:Évaluation de Fin de Module 8
+4062:QCM (5 questions)
+4122: QCM                                                                        20%
+4133:Mois 5 : Projet Fil Rouge et Constitution du
+4139:   Objectifs du mois projet
+4140:   Ce mois est consacré à la réalisation d'un projet fil rouge complet qui synthétise l'ensemble
+4148: Séance      Contenu                                                         Livrable
+4168: Séance      Contenu                                                             Livrable
+4180: Séance       Contenu                                                        Livrable
+4190: Séance       Contenu                                                        Livrable
+4200:Le portfolio doit contenir l'ensemble des livrables produits durant la formation :
+4235: Qualité des livrables               Les contenus sont-ils professionnels et bien exécutés ?        /20
+4271: Type de mission                Description                                    Livrable
+4295:  Livrables de Stage
+4298:   Dossier des livrables : Tous les contenus, campagnes, rapports produits
+4306:   Évaluation du tuteur entreprise (grille fournie par la formation)
+4309:  Grille d'Évaluation du Stage
+4318: Apport à l'entreprise             Valeur concrète des livrables pour l'entreprise               /20
+4325:Grille d'Évaluation Finale et Certification
+4330: Modules 1-8                   40%             Moyenne des notes de tous les modules (QCM + cas pratique
+4333: Projet fil rouge (Mois        25%             Soutenance finale et qualité du portfolio
+4336: Stage (Mois 6-7)              25%             Évaluation tuteur entreprise + rapport de stage

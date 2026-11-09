@@ -1,0 +1,20 @@
+[build]
+  command = "pnpm exec vite build"
+  publish = "dist/public"
+
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+
+# API routes are served by the Express app running as a Netlify Function
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/api/:splat"
+  status = 200
+  force = true
+
+# Single-page app: every other route is rendered client-side
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
